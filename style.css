@@ -1,0 +1,63 @@
+body{
+    background-color: blueviolet;
+}
+
+.container {
+    justify-content: center;
+    margin: 150px 0px 0px 550px;
+}
+
+.title {
+    color:cadetblue;
+    width: 400px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.strength {
+    font-weight: bold;
+    font-size:larger;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 550px;
+}
+
+.input-field {
+    height: 30px;
+    border-radius: 20%;
+    width: 200px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.weak {
+    color: red;
+    width: 400px;
+    text-align: center;
+    margin-left: 550px;
+    font-size: 30px;
+
+}
+.medium {
+    color: rgb(251, 169, 6);
+    width: 400px;
+    text-align: center;
+    margin-left: 550px;
+    font-size: 30px;
+}
+.strong {
+    color: rgb(7, 248, 59);
+    width: 400px;
+    font-size: 30px;
+    margin-left: 550px;
+    text-align: center;
+}
+
+#footer{
+    margin-top: 100px;
+    margin-left: 680px;
+
+
+}
